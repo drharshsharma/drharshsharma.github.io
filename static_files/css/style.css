@@ -14,6 +14,15 @@ body {
   margin: 0 auto;
 }
 
+h3 {
+  font-size: 20pt;
+  text-transform: uppercase;
+  color: #670067;
+  font-weight: 400;
+  letter-spacing: 1.5px;
+  margin-bottom: .75em;
+}
+
 h4 {
   font-size: 16pt;
   text-transform: uppercase;
@@ -21,12 +30,6 @@ h4 {
   font-weight: 400;
   letter-spacing: 1.5px;
   margin-bottom: .75em;
-}
-
-h3 {
-  font-size: 12pt;
-  color: gray;
-  font-weight: 300;
 }
 
 p {
